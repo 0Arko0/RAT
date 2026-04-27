@@ -2,9 +2,7 @@
 
 ![BigAhhRAT](https://github.com/VisoXC/VisoRAT/blob/main/assets/bigrat.png?raw=true)
 
-> 🎯 *Since there are not enough RATs in the Minecraft community, here is another one!* 🙃
-> 
-> 👑 **Shout-out** to the [Ratter Scanner](https://ratterscanner.com/) team for being GOATed! 
+>  *Since there aren't already enough RATs in the Minecraft community, here is another one.* 🎯
 
 ---
 
@@ -121,9 +119,12 @@ The server configuration is stored in `server/config.json`. Below is a comprehen
 
 ## <img src="https://github.com/VisoXC/VisoRAT/blob/main/assets/support.png?raw=true" width="24" height="24"> Support
 
-If this project works for you, please **star** ⭐ this repository to show your support! ❤️
+If this project works for you, please **star** ⭐ this repository to show your support. ❤️
 
-**I will be actively updating this repository and adding new features if it gets enough attention and stars!**
+🚨 Next update on: **20 Stars**
+
+💬 **Discord**: @visoxd
+(a support discord is in the works)
 
 ---
 
